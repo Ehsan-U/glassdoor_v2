@@ -35,8 +35,6 @@ class GlassDoor(scrapy.Spider):
                     # },
                 },
             })
-            if i == 10:
-                break
 
 
     async def parse(self, response, **kwargs):
