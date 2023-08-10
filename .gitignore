@@ -1,0 +1,5 @@
+.env/
+.scrapy/
+glassdoor.xlsx
+*.ipynb
+test.py
