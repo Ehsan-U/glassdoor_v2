@@ -30,8 +30,8 @@ class GlassDoor(scrapy.Spider):
                     "ignore_https_errors": True,
                     # "proxy": {
                     #     "server": "http://geo.iproyal.com:12321",
-                    #     "username": "ehsan",
-                    #     "password": "ehsan123123123_streaming-1",
+                    #     "username": "",
+                    #     "password": "",
                     # },
                 },
             })
@@ -55,8 +55,8 @@ class GlassDoor(scrapy.Spider):
                         "ignore_https_errors": True,
                         # "proxy": {
                         #     "server": "http://geo.iproyal.com:12321",
-                        #     "username": "ehsan",
-                        #     "password": "ehsan123123123_streaming-1",
+                        #     "username": "",
+                        #     "password": "",
                         # },
                     },
                 })
